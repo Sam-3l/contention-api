@@ -6,7 +6,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-0.1-orange)](https://langchain.com)
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
 
-![Contention Demo](demo.gif) *(Placeholder for GIF)*  
+![Contention Demo](demo.gif)  
 
 ## ✨ Features  
 - **Multiple Debate Modes**: Devil’s Advocate, Socratic, Formal, Casual  
