@@ -42,8 +42,8 @@
    Open `http://localhost:8000/api/debate/` to start arguing!  
 
 ## 📌 Roadmap  
-- [x] Basic DRF API + Auth  
-- [x] Mistral/LangChain integration  
+- [ ] Basic DRF API + Auth  
+- [ ] Mistral/LangChain integration  
 - [ ] WebSockets for live debates  
 - [ ] ElevenLabs TTS/Whisper STT  
 
